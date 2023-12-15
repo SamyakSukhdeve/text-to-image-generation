@@ -1,0 +1,18 @@
+.grid-div {
+  width: 180px;
+  height: 180px;
+  position: relative;
+}
+
+.grid-inner-div {
+  position: absolute;
+}
+.wrap {
+  overflow: hidden;
+ 
+}
+
+.grid-img {
+  height: 180px;
+  width: 180px;
+}

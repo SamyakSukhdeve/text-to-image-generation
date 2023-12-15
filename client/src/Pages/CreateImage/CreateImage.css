@@ -1,0 +1,28 @@
+.create-div {
+  background-color: #12151e;
+  margin: 0;
+  padding-top: 100px;
+  padding-left: 250px;
+  padding-right: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.create-heading {
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.map-fun {
+  display: grid;
+  grid-template-areas:
+    "one two three"
+    "four five six"
+    "seven eight nine";
+  grid-gap: 10px;
+  justify-content: center;
+  padding: 20px;
+}
